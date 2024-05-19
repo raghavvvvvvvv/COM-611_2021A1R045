@@ -53,3 +53,5 @@ This repository contains Python code for implementing linear regression to predi
 - Run `salary_prediction.ipynb` in a Jupyter notebook environment.
 
 Feel free to reach out for any questions or improvements!
+
+`Raghav Sharma - 2021A1R045`
